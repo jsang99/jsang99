@@ -27,8 +27,10 @@ Here are some ideas to get you started:
 
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)
+![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-000)
 ![Altium Designer](https://img.shields.io/badge/Altium%20Designer-000?&logo=altium%20designer)
+![OpenCL](https://img.shields.io/badge/-OpenCL-000)
 ![Git](https://img.shields.io/badge/-git-000?&logo=git)
 ![Java](https://img.shields.io/badge/Java-000?logo=openjdk)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -38,10 +40,15 @@ Here are some ideas to get you started:
 
 ## Past Projects
 
-| # |                                                              Repositories                                                              |
-| :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
-| 1 | [Cyberpet: An Arduino and ESP Based Companion Robot](https://github.com/XuanyouLiu/US-Real-Estate-Analysis) |
-| 2 | [US Real Estate Rental Prices Analysis](https://github.com/XuanyouLiu/US-Real-Estate-Analysis) |
+### Chesstream: Play against AI on a Physical Board
+- [Repository](https://github.com/jsang99/Chesstream/) 
+- [Video Demo](https://youtu.be/DB6ynQ7qNNc)
 
+### M51 Space Inc: Student-run Rocketry Startup
+- [Company Website](https://m51space.com/)
+- [Original Liquid Fuel Engine Demo](https://youtu.be/NHitH4MeTWI?si=OtEthjJ_owiuofAG)
 
-
+### Physics Thesis Research: Detecting Chameleon Particle as Dark Energy Candidate
+- [Poster](https://drive.google.com/file/d/1nrbFbMJJjI5SH0QynE-FEA3jQHkwss82/view?usp=drive_link)
+- [Thesis Paper](https://drive.google.com/file/d/1sloMNLD67tRkuTIOemdkO8pN5n-7sdYM/view?usp=drive_link)
+- [Contributed Publication](https://arxiv.org/pdf/2201.12372.pdf)
