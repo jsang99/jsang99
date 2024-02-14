@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 ![Undergrad](https://img.shields.io/badge/Undergrad-Haverford-blue)
 ![Graduate](https://img.shields.io/badge/Graduate-UPenn-blue)
 
-- Seeking opportunities in embedded systems, with a focus on firmware.
+- Seeking opportunities in embedded systems, with a focus on firmware
 - M.S.E. in Electrical Engineering @ University of Pennsylvania
-- B.S. in Physics @ Haverford College
-- I am recent graduate a Master's degree in Electrical Engineering at the University of Pennsylvania.
-- My areas of interest include embedded systems, human-computer interaction (HCI), and big data analysis.
+- B.S. in Physics, concentrating in Scientific Computing @ Haverford College
 
 [Email](mailto:kjsang@seas.upenn.edu) | [Resume](https://drive.google.com/file/d/1MAsuPIRWoL0Cco74exjRN58q-d4UCGyW/view?usp=drive_link) | [Linkedin](https://www.linkedin.com/in/kevinjiyansang/)
 
