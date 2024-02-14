@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 ![Undergrad](https://img.shields.io/badge/Undergrad-Haverford-blue)
 ![Graduate](https://img.shields.io/badge/Graduate-UPenn-blue)
 
+- Seeking opportunities in embedded systems, with a focus on firmware.
+- M.S.E. in Electrical Engineering @ University of Pennsylvania
+- B.S. in Physics @ Haverford College
 - I am recent graduate a Master's degree in Electrical Engineering at the University of Pennsylvania.
 - My areas of interest include embedded systems, human-computer interaction (HCI), and big data analysis.
-- I am seeking opportunities for a Research Assistantship or PhD position in the field of Human-Computer Interaction.
 
-📫 [Email](mailto:kjsang@seas.upenn.edu) | [Resume](https://drive.google.com/file/d/1Jc6BW3-jMrOjLfo8ULs09s7cjMYXsSP2/view?usp=share_link) | [Webpage](https://www.grasp.upenn.edu/people/xuanyou-liu/) | [Linkedin](https://www.linkedin.com/in/xuanyouliu/)
+[Email](mailto:kjsang@seas.upenn.edu) | [Resume](https://drive.google.com/file/d/1MAsuPIRWoL0Cco74exjRN58q-d4UCGyW/view?usp=drive_link) | [Linkedin](https://www.linkedin.com/in/kevinjiyansang/)
 
 ## Languages & Techologies
 
