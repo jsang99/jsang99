@@ -43,6 +43,9 @@ Here are some ideas to get you started:
 ### Chesstream: Play against AI on a Physical Board
 - [Repository](https://github.com/jsang99/Chesstream/) 
 - [Video Demo](https://youtu.be/DB6ynQ7qNNc)
+- [Main Board PCBA](https://365.altium.com/files/D4E06251-FFA3-47C6-89CF-CEFF8A098985)
+- [Quater Module PCBA](https://365.altium.com/files/D596A9AF-ADFE-4079-915E-C864F213AB50)
+
 
 ### M51 Space Inc: Student-run Rocketry Startup
 - [Company Website](https://m51space.com/)
