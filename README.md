@@ -46,8 +46,7 @@ Here are some ideas to get you started:
 
 
 ### M51 Space Inc: Student-run Rocketry Startup
-- [Company Website](https://m51space.com/)
-- [Original Liquid Fuel Engine Demo](https://youtu.be/NHitH4MeTWI?si=OtEthjJ_owiuofAG)
+- [Original Liquid Fuel Engine Demo](https://drive.google.com/file/d/1mK3kSHrc7TbshkcTAyHXzFtN6uHz-Zzk/view?usp=sharing)
 
 ### Physics Thesis Research: Detecting Chameleon Particle as Dark Energy Candidate
 - [Poster](https://drive.google.com/file/d/1nrbFbMJJjI5SH0QynE-FEA3jQHkwss82/view?usp=drive_link)
