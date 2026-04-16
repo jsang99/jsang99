@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - M.S.E. in Electrical Engineering @ University of Pennsylvania
 - B.S. in Physics, concentrating in Scientific Computing @ Haverford College
 
-[Email](mailto:kjsang@seas.upenn.edu) | [Resume](https://drive.google.com/file/d/1hH7Dx-4qD88jN5cjt_YfgIFtxJmmjQoK/view?usp=sharing) | [Linkedin](https://www.linkedin.com/in/kevinjiyansang/)
+[Email](mailto:kjsang@alumni.upenn.edu) | [Linkedin](https://www.linkedin.com/in/kev-s/)
 
 ## Languages & Techologies
 
