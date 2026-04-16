@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 ![Undergrad](https://img.shields.io/badge/Undergrad-Haverford-blue)
 ![Graduate](https://img.shields.io/badge/Graduate-UPenn-blue)
 
-- Seeking opportunities in embedded systems, with a focus on firmware
 - M.S.E. in Electrical Engineering @ University of Pennsylvania
 - B.S. in Physics, concentrating in Scientific Computing @ Haverford College
 
