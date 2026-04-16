@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
-![SolidWorks](https://img.shields.io/badge/-SolidWorks-000?&logo=dassaultsystemes)
 
 ## Past Projects
 
